@@ -1,0 +1,5 @@
+Django==1.11.*
+djangorestframework==3.9.*
+django-rest-swagger==2.2.*
+drf-yasg
+django-jsonfield==1.1.*
